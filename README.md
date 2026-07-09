@@ -41,6 +41,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 ## Training and Planning
 
 - [Calendar Hack](https://www.defy.org/hacks/calendarhack/) — Quick calendar tool for date calculations and viewing.
+- [intervals.icu](https://intervals.icu) - Free advanced training-analysis platform for runners and cyclists, with fitness/fatigue tracking and workout planning.
 - [Strava Route Builder](https://www.strava.com/routes/new) — Plan and create custom running routes, analyze elevation, and sync with your GPS device.
 - [Runkeeper](https://runkeeper.com/) — From Asics, it offers training plans, goal setting, and progress tracking for runners of all levels.
 
